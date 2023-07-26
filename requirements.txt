@@ -3,3 +3,5 @@ gunicorn==20.1.0
 fastapi[all]==0.88.0
 pytest
 passlib
+pandas
+pydantic
